@@ -1,0 +1,1 @@
+select objs from java.lang.Object[] objs where objs.length > 100
