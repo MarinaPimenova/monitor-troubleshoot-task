@@ -31,7 +31,8 @@ From a **Java 21 developer** perspective:
 
 # What is difference between profiling and traceability?
 
-Although both are observability techniques, they answer **different questions** and operate at **different levels**.
+Although both are observability techniques, they answer **different questions** 
+and operate at **different levels**.
 
 ---
 
