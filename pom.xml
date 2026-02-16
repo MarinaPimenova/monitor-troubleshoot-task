@@ -7,6 +7,11 @@
     <groupId>com.hw</groupId>
     <artifactId>monitor-troubleshoot-task</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>heap</module>
+        <module>deadlock</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
